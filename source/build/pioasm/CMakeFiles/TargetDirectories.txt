@@ -1,0 +1,3 @@
+/media/vigneshrr/Data/Programming/github/c-raspberry-pico/source/build/pioasm/CMakeFiles/pioasm.dir
+/media/vigneshrr/Data/Programming/github/c-raspberry-pico/source/build/pioasm/CMakeFiles/edit_cache.dir
+/media/vigneshrr/Data/Programming/github/c-raspberry-pico/source/build/pioasm/CMakeFiles/rebuild_cache.dir
